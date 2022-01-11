@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ...Geant4, Python,C#...
 
-- 💞️ I’m looking to collaborate on ...Any Nuclear Data Analyst and a programmer.To share our ideas.
+- 💞️ I’m looking to collaborate on ... Nuclear Data Analysis  and computer programs .To share our ideas.
 
 - 📫 How to reach me ...@my email:abdulrazakzubairu129@gmail.com, my github account : Abzee- presido
 
